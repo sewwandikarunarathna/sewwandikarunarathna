@@ -1,6 +1,6 @@
 ### Hey there, I'm Sewwandi Karunarathna 👋
 
-I am an undergraduate of Sabaragamuwa University of Sri Lanka & following B.Sc.(hons) Computing and Information Systems in department of Computing and Information Systems, Faculty of Applied Sciences. Studied A/L in Combined Mathematical Stream.
+I am an undergraduate of Sabaragamuwa University of Sri Lanka & following B.Sc.(hons) Computing and Information Systems in department of Computing and Information Systems, Faculty of Applied Sciences.
 
 Here are some ideas to get you started:
 
@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything...
 - 😄 I love coding...
 - ⚡ I'm interested in reading books...
--->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sewwandiKarunarathna&show_icons=true&theme=onedark)
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sewwandikarunarathna&show_icons=true&theme=onedark)
