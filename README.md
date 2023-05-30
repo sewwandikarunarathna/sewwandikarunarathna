@@ -1,6 +1,6 @@
 ### Hey there, I'm Sewwandi Karunarathna 👋
 
-Undergraduate of Sabaragamuwa University of Sri Lanka, following B.Sc.(hons) Computing and Information Systems in Department of Computing and Information Systems, Faculty of Applied Sciences.
+Undergraduate of Sabaragamuwa University of Sri Lanka, B.Sc.(hons) Computing and Information Systems in Department of Computing and Information Systems, Faculty of Computing.
 
 Here are some ideas to get you started:
 
